@@ -60,12 +60,13 @@ a{
 footer{
     background-color: #5c5c5c;
     height: 50px;
-    align-content: center;
-    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     color: #ffffff;
     padding-left: 50px;
     padding-right: 50px;
-    font-size: 12px;
+    font-size: 14px;
 }
     
 #inicio{
