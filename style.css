@@ -130,7 +130,8 @@ footer{
 .galery img {
   max-width: 100%;
   min-height: 355px;
-  height: auto; 
+  height: auto;
+  cursor: pointer;
 }
 #galeria{
     padding: 10px;
