@@ -288,6 +288,14 @@ footer{
     cursor: pointer;
     }
 }
+/* Estilos para tablets */
+
+@media all and (min-width: 768px) and (max-width: 1023px) {
+.contatos-items h5{
+    font-size: 25px;
+}
+  
+}
 
 /* Estilos para desktops */
 @media all and (min-width: 1024px) {
