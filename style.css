@@ -166,6 +166,10 @@ footer{
 .contatos-items img{
     padding-right: 10px;
 }
+.contatos-items a{
+    display: flex;
+    align-items: center;
+}
 
 
 /*designer para mobile*/
